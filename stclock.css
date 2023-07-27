@@ -1,0 +1,21 @@
+.clock {
+    margin-left: 50%;
+    position: relative;
+    top: 500px;
+    transform: translate(-50%, 0);
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+body {
+    font-family: "Poiret One", cursive;
+    background: conic-gradient(
+        from 90deg at 25% -10%,
+        #ff4500,
+        #d3f340,
+        #7bee85,
+        #afeeee
+    );
+    height: 98.7vh;
+}
